@@ -1,0 +1,10 @@
+{
+ "m_dirs": [
+  "c://media/music",
+  "p://media/music"
+ ],
+ "v_dirs": [
+  "c://media/tv shows",
+  "f://plex media 2/tv shows"
+ ]
+}
